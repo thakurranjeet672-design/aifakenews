@@ -9,3 +9,6 @@ lxml_html_clean
 newspaper3k
 joblib
 plotly
+transformers
+torch
+langdetect
